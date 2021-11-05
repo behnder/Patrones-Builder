@@ -1,0 +1,14 @@
+E:\unity\quark\Patrones\Patrones-Builder\Patrones-Builder\bin\Debug\netcoreapp3.1\Patrones-Builder.exe
+E:\unity\quark\Patrones\Patrones-Builder\Patrones-Builder\bin\Debug\netcoreapp3.1\Patrones-Builder.deps.json
+E:\unity\quark\Patrones\Patrones-Builder\Patrones-Builder\bin\Debug\netcoreapp3.1\Patrones-Builder.runtimeconfig.json
+E:\unity\quark\Patrones\Patrones-Builder\Patrones-Builder\bin\Debug\netcoreapp3.1\Patrones-Builder.runtimeconfig.dev.json
+E:\unity\quark\Patrones\Patrones-Builder\Patrones-Builder\bin\Debug\netcoreapp3.1\Patrones-Builder.dll
+E:\unity\quark\Patrones\Patrones-Builder\Patrones-Builder\bin\Debug\netcoreapp3.1\Patrones-Builder.pdb
+E:\unity\quark\Patrones\Patrones-Builder\Patrones-Builder\obj\Debug\netcoreapp3.1\Patrones-Builder.csproj.AssemblyReference.cache
+E:\unity\quark\Patrones\Patrones-Builder\Patrones-Builder\obj\Debug\netcoreapp3.1\Patrones-Builder.GeneratedMSBuildEditorConfig.editorconfig
+E:\unity\quark\Patrones\Patrones-Builder\Patrones-Builder\obj\Debug\netcoreapp3.1\Patrones-Builder.AssemblyInfoInputs.cache
+E:\unity\quark\Patrones\Patrones-Builder\Patrones-Builder\obj\Debug\netcoreapp3.1\Patrones-Builder.AssemblyInfo.cs
+E:\unity\quark\Patrones\Patrones-Builder\Patrones-Builder\obj\Debug\netcoreapp3.1\Patrones-Builder.csproj.CoreCompileInputs.cache
+E:\unity\quark\Patrones\Patrones-Builder\Patrones-Builder\obj\Debug\netcoreapp3.1\Patrones-Builder.dll
+E:\unity\quark\Patrones\Patrones-Builder\Patrones-Builder\obj\Debug\netcoreapp3.1\Patrones-Builder.pdb
+E:\unity\quark\Patrones\Patrones-Builder\Patrones-Builder\obj\Debug\netcoreapp3.1\Patrones-Builder.genruntimeconfig.cache
