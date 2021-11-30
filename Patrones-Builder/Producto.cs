@@ -27,8 +27,8 @@ namespace Patrones_Builder
         }
         public void MostrarAuto()
         {
-            Console.WriteLine("================");
             Console.WriteLine("El auto fabricado tiene {0}--{1}--{2}", Motor.Especificaciones(), Llantas.informacion(), Carroceria.caracteristicas());
+            Console.WriteLine("================");
         }
 
     }

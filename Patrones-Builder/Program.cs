@@ -6,7 +6,7 @@ namespace Patrones_Builder
     {
         static void Main(string[] args)
         {
-            BuilderNormal builder = new BuilderNormal();
+           BuilderNormal builder = new BuilderNormal();
            BuilderDeportivo builderDeportivo = new BuilderDeportivo();
 
             Director miDirector = new Director(builder);
@@ -20,6 +20,7 @@ namespace Patrones_Builder
             //Producto auto2 = builderDeportivo.ObtenerProductoTerminado();
 
             miDirector.CambiarBuilder(builderDeportivo);
+            miDirector.Construye();
             auto1 = builderDeportivo.ObtenerProductoTerminado();
             auto1.MostrarAuto();
 
